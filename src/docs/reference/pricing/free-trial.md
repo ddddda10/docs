@@ -25,7 +25,6 @@ This is a fully automated process, and Railway does not respond to requests for 
 ## FAQs
 
 ### How do I get started with the free Trial?
-
 If you do not already have a Railway account, you can sign up for a free Trial by clicking "Login" at [railway.com](https://railway.com/).
 
 ### How does the Trial work?
